@@ -2,6 +2,8 @@ import json
 import logging
 import os
 from dotenv import load_dotenv
+from keep_alive import keep_alive
+
 
 from telegram import (
     Update,
@@ -148,6 +150,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # ================= MAIN =================
 def main():
+    keep_alive()
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 
     app.add_handler(CommandHandler("start", start))
@@ -158,3 +161,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
