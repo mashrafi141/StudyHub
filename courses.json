@@ -1,0 +1,272 @@
+{
+  "courses": {
+    "CSE223": {
+      "title": "Digital Logic Design",
+      "categories": {
+        "Books": [
+          {
+            "title": "Digital Systems: Principles and Applications (Ronald Tocci)",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAM2aXXUe3ICZVa5ZfcpRz97X0YNtcIAAkkeAAITtahXtbESAWxYHDM4BA"
+          },
+          {
+            "title": "Digital Design (Morris Mano) – 5th Edition",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAM3aXXUqcEPPTu2DlEi5B_tNbZbV1oAAkoeAAITtahXahMTGo-UYCc4BA"
+          }
+        ],
+
+        "Boolean Algebra": [
+          {
+            "title": "Boolean Function Simplification",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAM4aXXUwk8wrqo5eFCnSc6x9_9DVHUAAlkeAAITtahXAAFV4eALH07pOAQ"
+          },
+          {
+            "title": "Canonical Forms of Boolean Functions (Lesson 07)",
+            "type": "pptx",
+            "file_id": "BQACAgUAAyEFAATfv259AAM8aXXUwq3eawJwRu6O-F6XyK1rDjoAAl0eAAITtahXYnxLoT9vkog4BA"
+          }
+        ],
+
+        "Logic Gates": [
+          {
+            "title": "Logic Gates",
+            "type": "pptx",
+            "file_id": "BQACAgUAAyEFAATfv259AAM5aXXUwvoqB7YAAQPJwNh4oWbODoflAAJaHgACE7WoVxcct7M0W3vkOAQ"
+          },
+          {
+            "title": "Universal Gates",
+            "type": "pptx",
+            "file_id": "BQACAgUAAyEFAATfv259AAM6aXXUwt1lPxdmcdHyxucUcnakd6UAAlseAAITtahXT0CJ6TyZ_ks4BA"
+          }
+        ],
+
+        "K-Map": [
+          {
+            "title": "K-Map Introduction",
+            "type": "pptx",
+            "file_id": "BQACAgUAAyEFAATfv259AANEaXXVYkPTsgIQ9dSx9jOy1F12zYUAAl4eAAITtahXVeAFfAksPYE4BA"
+          },
+          {
+            "title": "Exercise on K-Map",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANFaXXVbQJ7jFUwkQjlY-g9bHvhJJEAAl8eAAITtahXlYb0MWI4tno4BA"
+          },
+          {
+            "title": "K-Map Notes",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANGaXXVfUT4xPLGrtxxoVVEDt6ZQ0MAAmAeAAITtahXeJ4MKKuj54A4BA"
+          }
+        ],
+
+        "Combinational Circuits": [
+          {
+            "title": "Binary Adder",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANHaXXVjDbxgPCO6nAiCDWbhRNS73YAAmEeAAITtahXbrZT7C7qJYE4BA"
+          },
+          {
+            "title": "Subtractor",
+            "type": "pptx",
+            "file_id": "BQACAgUAAyEFAATfv259AANIaXXVksmfgVo0eEayuZ-EwUJcdZwAAmIeAAITtahXq1P1afFyu0M4BA"
+          },
+          {
+            "title": "Decoder",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANJaXXVmoXehTEGnzi2ZMxtzpZ4y1AAAmMeAAITtahXVWFCSK9Q6RU4BA"
+          },
+          {
+            "title": "Encoder",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANKaXXVpO3sxpAGoUedT9FFrhyL5rcAAmQeAAITtahXNnD5G3vNTlI4BA"
+          },
+          {
+            "title": "Multiplexer",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANLaXXVsI37ipJhA5kEQ2uM_ChRrD4AAmUeAAITtahXr7Gc0fFSIyY4BA"
+          },
+          {
+            "title": "Multiplexer Examples",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANMaXXVt8cZKGyobZm9IF6OMgl7_I8AAmYeAAITtahXD_u8GKSt4Wg4BA"
+          },
+          {
+            "title": "Demultiplexer (Lesson 18)",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AANNaXXVvs71TKbwyA28gMd7SydpenYAAmceAAITtahXDehRun7KkVQ4BA"
+          }
+        ]
+      }
+    },
+
+    "CSE227": {
+      "title": "System Analysis and Design",
+      "categories": {
+        "Introduction": [
+          {
+            "title": "Lesson 1 – Introduction to System Analysis and Design",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOHaXXbZNUZ7sBS38JrHTmJItS6FCwAAtQdAAITtahXa15Qv7nxfS44BA"
+          }
+        ],
+
+        "SDLC (System Development Life Cycle)": [
+          {
+            "title": "Lesson 2 – System Analysis and Design Life Cycle",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOIaXXbZL4AAakg1fjHvmuTA9-gGGLIAALVHQACE7WoV9doJRMOL0lvOAQ"
+          }
+        ],
+
+        "Information Gathering": [
+          {
+            "title": "Lesson 3 – Information Gathering",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOJaXXbZF0JxE3tzftQjKkYWqpbp9EAAtYdAAITtahXnR_d0BfwEJI4BA"
+          }
+        ],
+
+        "Data Flow Diagram (DFD)": [
+          {
+            "title": "Week 4 – Data Flow Diagram (DFD)",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOKaXXbZLRCOriCBL28SpO5cwtsJQEAAtcdAAITtahXqJNLWvOlueM4BA"
+          },
+          {
+            "title": "DFD Examples",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOLaXXbZBpZYXLspzLawFmP5Hf9incAAtgdAAITtahXeaLO0idaWMU4BA"
+          },
+          {
+            "title": "DFD Notes",
+            "type": "docx",
+            "file_id": "BQACAgUAAyEFAATfv259AAOOaXXbZCKEEV7o5LRysoDuJPOB3qAAAtsdAAITtahXZQsEaDdyjrM4BA"
+          }
+        ],
+
+        "Process Specification": [
+          {
+            "title": "Week 5 – Process Specification",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOMaXXbZF4BpSTlNK73VK50CulmK0cAAtkdAAITtahX2d1OFUOxvNo4BA"
+          }
+        ],
+
+        "Feasibility Analysis": [
+          {
+            "title": "Lesson 6 – Feasibility Analysis",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAONaXXbZLQJRu6uEZiuUDf2gIJEl_IAAtodAAITtahX31Ilh31B55Q4BA"
+          },
+          {
+            "title": "Feasibility Study",
+            "type": "docx",
+            "file_id": "BQACAgUAAyEFAATfv259AAOQaXXbZIncQjaZZcOxIvIV6tcEFc8AAt0dAAITtahX2yhdPjIO2BY4BA"
+          }
+        ],
+
+        "Decision Analysis": [
+          {
+            "title": "Decision Structure",
+            "type": "docx",
+            "file_id": "BQACAgUAAyEFAATfv259AAOPaXXbZCKheQb9zZk78wft0u7xBAAD3B0AAhO1qFfT89OfQpdbjjgE"
+          }
+        ]
+      }
+    },
+    "CSE225": {
+      "title": "Data Communication",
+      "categories": {
+        "Lecture Notes": [
+          {
+            "title": "Week 1 – Introduction to Data Communication",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAORaXXczOSITX3GCyq3u1XK8GFJizMAApcdAAJcYbFXb61yFt43yjg4BA"
+          },
+          {
+            "title": "Week 2 – Lesson 1",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOSaXXczLgrqSGEmqUS_5HrC2IcJoUAApgdAAJcYbFX0PN3q3nuRt84BA"
+          },
+          {
+            "title": "Week 2 – Lesson 2",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOTaXXczCQx3Tm7jm8Q8N9fCse0bt4AApkdAAJcYbFXIYTmmvrEKvc4BA"
+          },
+          {
+            "title": "Week 3 – Lesson 1",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOUaXXczJHVoji-DAEXYFqxFrl2yPkAApodAAJcYbFX-KKQsqCR0lc4BA"
+          },
+          {
+            "title": "Week 3 – Lesson 2",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOVaXXczMxX_Hxoir58c7hLlbkunWEAApsdAAJcYbFXgSegMwABWP2FOAQ"
+          },
+          {
+            "title": "Week 4 – Lesson 1",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOWaXXczFl1qW5QCn5jG-cbPV_lLuYAApwdAAJcYbFXDdUhqYlQveg4BA"
+          },
+          {
+            "title": "Week 4 – Lesson 2",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOXaXXczEEQ2xCAJHAd0xiVujElzkMAAp0dAAJcYbFXA9TIGlPrhf44BA"
+          }
+        ],
+
+        "Books": [
+          {
+            "title": "Data Communications and Networking (5th Edition)",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOZaXXczJHpyRYO58c_VP95Y75lsf4AAsIjAALnkjBXvwfzSt2Xqnk4BA"
+          }
+        ]
+      }
+    },
+    "CSE228": {
+      "title": "Theory of Computation",
+      "categories": {
+        "Introduction & Basics": [
+          {
+            "title": "Lecture 1 – Week 1",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAObaXXdpB2U6phq5ChwDK4wqvXQwGwAAlQoAAL_EXhXtXim4ix94QABOAQ"
+          },
+          {
+            "title": "Lecture 1 – Week 2",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOcaXXdpPD3QEVICplFlIQnlaGpGE8AAlUoAAL_EXhXV5MbUj3T9X04BA"
+          }
+        ],
+
+        "Finite Automata": [
+          {
+            "title": "Lecture 2 – Week 1",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOdaXXdpLoraMsbB1PkVu35LQrpmz4AAlYoAAL_EXhXbP8OcehwFbc4BA"
+          },
+          {
+            "title": "Lecture 2 – Week 2",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOeaXXdpFacWLHlQCGasdf_wg-8kNAAAlcoAAL_EXhXjjLJvMnlV-A4BA"
+          },
+          {
+            "title": "Lecture 2 – Week 3",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOfaXXdpDOe46hES1P86IvKrJEwegkAAlgoAAL_EXhXDTW97hvzLe04BA"
+          }
+        ],
+
+        "Practice Problems": [
+          {
+            "title": "DFA Practice Problems",
+            "type": "pdf",
+            "file_id": "BQACAgUAAyEFAATfv259AAOaaXXdpPswxOOgbo0K5bH26T2g2dUAAlMoAAL_EXhXmEPOTtWLf9I4BA"
+          }
+        ]
+      }
+    }
+  }
+}
