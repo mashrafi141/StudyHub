@@ -1,0 +1,70 @@
+{
+    "semester": "Summer 2026",
+    "batch": "CSE 22",
+    "courses": {
+        "numerical_methods": {
+            "title": "Numerical Methods",
+            "emoji": "🔢",
+            "categories": {
+                "notes": [],
+                "books": [],
+                "lecture_notes": [],
+                "videos": [],
+                "playlists": []
+            }
+        },
+        "compiler_design": {
+            "title": "Compiler Design",
+            "emoji": "⚙",
+            "categories": {
+                "notes": [],
+                "books": [],
+                "lecture_notes": [],
+                "videos": [],
+                "playlists": [
+                    {
+                        "title": "Compiler Design Playlist 1 [Anisul Sir]",
+                        "url": "https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg&si=Cwz7E4TU21LOiYqx"
+                    },
+                    {
+                        "title": "Compiler Design [Gate Smashers Boss] 👀",
+                        "url": "https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc&si=BlY3nJORfxu_-xZ4"
+                    }
+                ]
+            }
+        },
+        "compiler_design_lab": {
+            "title": "Compiler Design Lab",
+            "emoji": "🧪",
+            "categories": {
+                "notes": [],
+                "books": [],
+                "lecture_notes": [],
+                "videos": [],
+                "playlists": []
+            }
+        },
+        "dbms": {
+            "title": "Database Management System",
+            "emoji": "🗄",
+            "categories": {
+                "notes": [],
+                "books": [],
+                "lecture_notes": [],
+                "videos": [],
+                "playlists": []
+            }
+        },
+        "dbms_lab": {
+            "title": "Database Management System Lab",
+            "emoji": "💻",
+            "categories": {
+                "notes": [],
+                "books": [],
+                "lecture_notes": [],
+                "videos": [],
+                "playlists": []
+            }
+        }
+    }
+}
